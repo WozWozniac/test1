@@ -1,0 +1,8 @@
+var1 = "나나나"    #문자열(String)
+var2 = 14         #정수(Integer)
+var3 = 55.5       #실수(Float)
+var4 = True       #논리(Boolean)
+print(var1, id(var1), type(var1))
+print(var2, id(var1), type(var2))
+print(var3, id(var1), type(var3))
+print(var4, id(var1), type(var4))
